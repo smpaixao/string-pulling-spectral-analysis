@@ -1,5 +1,8 @@
 # String-pulling kinematic analysis
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23368403.svg)](https://doi.org/10.5281/zenodo.23368403)
+
+Custom code and source data for the spectral analysis of string-pulling
 Custom code and source data for the spectral analysis of string-pulling
 kinematics reported in:
 
@@ -68,8 +71,9 @@ history in its header records what changed between versions and why.
 
 ## Citing
 
-See `CITATION.cff`. Cite the version DOI of the release matching the published
-version of record, not the concept DOI.
+Archived at Zenodo: https://doi.org/10.5281/zenodo.23368403
+
+See `CITATION.cff` for the full citation metadata.
 
 ## License
 
