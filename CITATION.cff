@@ -8,7 +8,7 @@ type: software
 version: v1.0.0
 date-released: "2026-10-14"
 license: MIT
-repository-code: "https://github.com/REPLACE-USER/REPLACE-REPO"
+repository-code:  "https://github.com/smpaixao/string-pulling-spectral-analysis"
 authors:
   - family-names: "Paixão"
     given-names: "Sónia"
