@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite both the software and the paper below."
+title: "String-pulling kinematic analysis"
+abstract: >-
+  Spectral analysis of forelimb string-pulling kinematics in control and
+  Zic2 neuron-ablated mice, from DeepLabCut hand trajectories.
+type: software
+version: v1.0.0
+date-released: "2026-10-14"
+license: MIT
+repository-code: "https://github.com/REPLACE-USER/REPLACE-REPO"
+authors:
+  - family-names: "Paixão"
+    given-names: "Sónia"
+    affiliation: "Max Planck Institute for Biological Intelligence, Martinsried, Germany"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+keywords:
+  - string pulling
+  - forelimb kinematics
+  - spectral analysis
+  - DeepLabCut
+  - spinal cord
+preferred-citation:
+  type: article
+  title: >-
+    Peripheral mechanoreceptor plasticity and spinal tactile integration
+    converge to control dexterous movements
+  journal: "Cell Reports"
+  year: 2026
+  authors:
+    - family-names: "Paixão"
+      given-names: "Sónia"

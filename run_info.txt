@@ -1,0 +1,22 @@
+Script        : string_pulling_AUGMENTED_v2.3_2026-09-17.py
+Version       : 2.3 (2026-09-17)
+Run started   : 2026-10-14 13:54:08 CEST
+Python        : 3.13.16  numpy 2.5.3  scipy 1.18.1  pandas 3.0.5
+Mice analysed : 22 (11 Control, 11 Zic2)
+Excluded      : 22367, 26806, 26829
+Frame rates   : data/frame_rates.xlsx
+STOP_MIN_S    : 0.15
+STOP_PERCENTILE: 10
+MIN_SEGMENT_S : 1.5
+PSD_WIN_S     : 1.5
+HIGHPASS_HZ   : 1.0
+FREQ_MIN      : 1.5
+FREQ_MAX      : 8.0
+LOWPASS_HZ    : 15.0
+CYCLE_PROM_SD : 0.5
+ENTROPY_FS    : 100.0
+ENTROPY_M     : 2
+ENTROPY_R     : 0.2
+NORMALITY_ALPHA: 0.05
+T_TEST_EQUAL_VAR: False
+N_BOOT        : 10000
