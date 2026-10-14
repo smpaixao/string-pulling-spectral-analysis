@@ -8,6 +8,7 @@ type: software
 version: v1.0.0
 date-released: "2026-10-14"
 license: MIT
+doi: "10.5281/zenodo.23368403"
 repository-code:  "https://github.com/smpaixao/string-pulling-spectral-analysis"
 authors:
   - family-names: "Paixão"
